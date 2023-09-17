@@ -1,4 +1,5 @@
-![logo](https://github.com/enesbuyuk/DomainResearcher/assets/82279640/c21edf4e-5497-4714-bb08-6a8f1f3e7845)
+
+![logo](https://github.com/enesbuyuk/DomainResearcher/assets/82279640/6b56858b-024e-4c3e-98bd-93a418a891d2)
 
 # DomainResearcher
 The project researches domains using the C programming language.
